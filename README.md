@@ -1,11 +1,24 @@
-# Fashion_MNIST image classification using HMM
+# MNIST image classification using HMM
 
-This project aims to classify images in the Fashion_MNIST dataset using a hidden Markov model (HMM). The Fashion_MNIST dataset consists of 10 categories of clothing images with 60,000 training samples and 10,000 testing samples. This project uses a convolutional neural network (CNN) with self-attention layers to extract features from images in the Fashion-MNIST dataset. The extracted features are then used to train 10 hidden Markov models (HMMs) for each class of clothing images. The HMMs are evaluated on the testing set using accuracy, F1-score, and AUC-ROC evaluation metrics. The project includes code for training and evaluating the HMMs, as well as a README file with installation and usage instructions.
+Welcome to the Workshop Repository! This repository serves as a comprehensive resource for learning various aspects of Python, NumPy, Pandas, and PyTorch. It includes tutorials and code examples to help you understand and apply these technologies effectively.
 
-## Documentation
+Contents
+The repository contains the following key components:
 
-You can see the description of the implementation method in the following file:
-[Click Me](https://github.com/kiananvari/Image-classification-using-HMMs/raw/main/Documentation.pdf)
+Python Tutorials
+In the Python tutorial section, you will find comprehensive guides and examples to help you learn and enhance your Python programming skills. These tutorials cover a wide range of topics, including basic syntax, control flow, data types, functions, and more.
+
+NumPy Tutorials
+The NumPy tutorials provide an in-depth exploration of the NumPy library, which is a fundamental package for scientific computing with Python. You will learn about multidimensional arrays, array manipulation, mathematical operations, and other essential functionalities offered by NumPy.
+
+Pandas Tutorials
+The Pandas tutorials focus on the Pandas library, which provides powerful data manipulation and analysis tools for Python. You will learn how to work with data frames, perform data cleaning, filtering, aggregation, and other data processing tasks using Pandas.
+
+PyTorch Tutorials
+The PyTorch tutorials are centered around the PyTorch library, which is a popular deep learning framework. In this section, we delve into building a Multi-Layer Perceptron (MLP) network and training it using the MNIST dataset. You will learn about defining network architectures, handling data loading and preprocessing, training models, and evaluating their performance.
+
+
+## Video Tutorial
 
 
 ## Results

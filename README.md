@@ -2,7 +2,7 @@
 
 Welcome to the Workshop Repository! This repository serves as a comprehensive resource for learning various aspects of Python, NumPy, Pandas, and PyTorch. It includes tutorials and code examples to help you understand and apply these technologies effectively.
 
-Contents
+# Contents
 The repository contains the following key components:
 
 Python Tutorials

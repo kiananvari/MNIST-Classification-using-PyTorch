@@ -18,7 +18,9 @@ The Pandas tutorials focus on the Pandas library, which provides powerful data m
 The PyTorch tutorials are centered around the PyTorch library, which is a popular deep learning framework. In this section, we delve into building a Multi-Layer Perceptron (MLP) network and training it using the MNIST dataset. You will learn about defining network architectures, handling data loading and preprocessing, training models, and evaluating their performance.
 
 
-## Video Tutorial
+## Tutorial Video
+
+Youtube tutorial video link: 
 
 
 ## Results

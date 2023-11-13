@@ -23,7 +23,7 @@ The PyTorch tutorials are centered around the PyTorch library, which is a popula
 
 ## Results
 
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/Image-classification-using-HMMs/main/Results/1.png)
-![App Screenshot](https://raw.githubusercontent.com/kiananvari/Image-classification-using-HMMs/main/Results/2.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/MNIST-Classification-using-PyTorch/main/Results/1.png)
+![App Screenshot](https://raw.githubusercontent.com/kiananvari/MNIST-Classification-using-PyTorch/main/Results/2.png)
 
 
